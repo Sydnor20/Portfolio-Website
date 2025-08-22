@@ -63,7 +63,7 @@ body {
 .skills-image{
     text-align: center;
     object-fit: contain;
-    min-width: fit-content;
+    min-width: fit-content;  
 }
 
 /* ===== PROJECT SECTION ===== */
